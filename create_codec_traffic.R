@@ -14,6 +14,7 @@ d <- d |>
     name = "hamilton_traffic",
     title = "Hamilton County Parcel and Household Traffic",
     version = "0.1.0",
+    description = "Number and fraction of parcels and households near traffic by census tract", 
     homepage = "https://geomarker.io/hamilton_traffic"
   )
 
